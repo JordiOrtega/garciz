@@ -1,0 +1,20 @@
+{
+  "name": "garciz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "devserver": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JordiOrtega/garciz.git"
+  },
+  "author": "Jordi Ortega",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JordiOrtega/garciz/issues"
+  },
+  "homepage": "https://github.com/JordiOrtega/garciz#readme"
+}

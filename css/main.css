@@ -1,0 +1,40 @@
+.active>a {text-decoration:none;}
+
+    .bottom-align-text {
+        position: absolute;
+        bottom: 0;
+        /* right: 0; */
+    }
+
+
+
+.carousel-caption--text {
+    background-color: rgba(0,0,0,0.6);
+    color: #fff;
+    padding: 10px;
+    font-size: 16px;
+    font-family: sans-serif;
+    position: absolute;
+    bottom: -35px;
+    left: 1px;
+    width: 100%
+}
+
+@media screen and (max-width: 480px) {
+    .caja {font-size: 12px;}
+}
+
+.carousel-caption {
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 20px;
+    z-index: 10;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: #ffffff;
+    text-align: center;
+    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
+    width: 100%;
+}
+ 
